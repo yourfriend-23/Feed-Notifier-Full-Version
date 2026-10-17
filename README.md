@@ -241,4 +241,4 @@ This repository serves as the official landing page for Feed Notifier. The softw
 **Get the most recent version of Feed Notifier today!**
 
 ---
-**Last updated:** 2026-10-17 09:59:06 UTC
+**Last updated:** 2026-10-17 13:31:52 UTC
